@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "753419047539",
+    "project_id": "dbmeuappcomlogin",
+    "storage_bucket": "dbmeuappcomlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753419047539:android:4f837f55c1d99e2d2b1006",
+        "android_client_info": {
+          "package_name": "com.mycompany.meuappcomlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753419047539-c83a1o3at6pgug1s0kiarr81ehjckdi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6e_hrzG3m1-LcqGibi1RV3MIKaEBGWSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753419047539-c83a1o3at6pgug1s0kiarr81ehjckdi8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753419047539-7aset4i821uh7u75iauscf4q4nj6od5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.meuappcomlogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
